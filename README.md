@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Dhio Linoval, I'm a Software and Fullstack Developer.</h3>
+<h3 align="left">Hi 👋! My name is Dhio Linoval, I'm a Software Developer.</h3>
 
 ###
 
