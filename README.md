@@ -17,4 +17,6 @@ Hii, I'm Dhio Linoval.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dhiolnvl&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<img src="https://raw.githubusercontent.com/dhiolnvl/dhiolnvl/output/snake.svg" alt="Snake animation" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
