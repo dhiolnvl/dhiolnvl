@@ -23,8 +23,6 @@ Hi! My name is Dhio Linoval, I'm a Software Developer.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/dhiolnvl/dhiolnvl/output/snake.svg" alt="Snake animation" /> 
 
 ###
