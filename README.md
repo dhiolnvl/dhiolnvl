@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Dhio Linoval, I'm a Software Developer.
+Hi! My name is Dhio Linoval.
 
 
 ## 🌐 Socials:
