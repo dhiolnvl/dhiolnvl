@@ -11,7 +11,6 @@ Hi! My name is Dhio Linoval, I'm a IT Student.
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=dhiolnvl&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiolnvl&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://streak-stats.demolab.com/?user=dhiolnvl)](https://git.io/streak-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
