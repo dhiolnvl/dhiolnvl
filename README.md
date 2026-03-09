@@ -15,7 +15,7 @@ Hi! My name is Dhio Linoval, I'm a IT Student.
 
 
 <p align="left">
-<a href="https://github.com/AllMuchalif2">
+<a href="https://github.com/dhiolnvl">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhiolnvl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhiolnvl&layout=compact&theme=algolia"/>
 </a>
