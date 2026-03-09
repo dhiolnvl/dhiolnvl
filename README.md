@@ -13,14 +13,6 @@ Hi! My name is Dhio Linoval, I'm a IT Student.
 ![](https://nirzak-streak-stats.vercel.app/?user=dhiolnvl&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiolnvl&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-<p align="left">
-<a href="https://github.com/dhiolnvl">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhiolnvl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhiolnvl&layout=compact&theme=algolia"/>
-</a>
-</p>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
