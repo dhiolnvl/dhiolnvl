@@ -10,7 +10,7 @@ Hi! My name is Dhio Linoval, I'm a IT Student.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dhiolnvl&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AllMuchalif2&theme=blue_navy&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dhiolnvl&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiolnvl&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
@@ -23,9 +23,6 @@ Hi! My name is Dhio Linoval, I'm a IT Student.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dhiolnvl&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dhiolnvl&icon=1&color=0)](https://visitcount.itsvg.in)
